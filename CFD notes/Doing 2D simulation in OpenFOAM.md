@@ -1,0 +1,4 @@
+- z should be one cell thick
+- snappyHexMesh works with 3D background meshes, so initially blockMesh needs to pass a 3D mesh
+- after meshing conversion to 2D is done
+- refinements can make initial 1 cell thick z direction fragment into cells. Extrusion using extrudeMeshDict is needed for 2D conversion

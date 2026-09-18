@@ -1,0 +1,1 @@
+Low Re can forgive mesh defects as numerical unstabilites gets 'damped out'
