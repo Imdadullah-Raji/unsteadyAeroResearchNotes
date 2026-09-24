@@ -1,0 +1,3 @@
+- Re = 1000, rapid pitch up of flat plate at various reduced frequencies, $k = \pi\dot{\alpha_0}c/U_\infty$ and pivot position.  
+- Eldredge ramp was chosen for $\alpha(t)$, which produces constant $\dot{\alpha}$ in between with $\dot{\alpha} =0$ and $\ddot{\alpha}=0$ at the edges. 
+- Brown-Michaels inviscid low order model was used for prediction. 
