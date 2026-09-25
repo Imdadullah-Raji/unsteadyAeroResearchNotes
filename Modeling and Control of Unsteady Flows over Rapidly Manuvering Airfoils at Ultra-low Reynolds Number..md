@@ -36,9 +36,10 @@ Their principal find is that the onset of 3D spanwise instability sits within th
 Williamson ordered these 3D instability modes of circular cylinders as mode A, B and C, by the order of their emergence.  His mode A corresponded to a spanwise instability wavelength of the order of 3-4 cylinder diameters; mode B corresponds to a shorter wavelength, both are synchronous with the base 2D vortex shedding period $T$. Mode C instability, by contrast, is period doubled and repeats after $2T$. Interestingly, for the airfoils it is the mode C instability that appears first, whereas mode A appears first for the cylinder.   
 
 ![[williamsonModeC.png]]
-![[williamsonModeAB.png]]
+![[williamsonModeC.png]]
 >Fig Caption: Spanwise instabilities in flow past a cylinder. The airfoil 3D instabilities develops by mode C, as discussed by Gupta et al. Taken from *Williamson* 1996 Annu. Rev. Fluid. Mech. Vortex Dynamics in the Cylinder Wake 
 ## 1.3 Unsteady Aerodynamics and Leading Edge Vortex Dynamics 
+
 
 
 
