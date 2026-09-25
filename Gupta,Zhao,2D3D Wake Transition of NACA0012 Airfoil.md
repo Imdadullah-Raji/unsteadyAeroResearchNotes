@@ -26,3 +26,15 @@
 
 They used a method called nodal spectral-element method. A book by Karniadakis is mentioned.
 
+## Key Results 
+
+
+![[regime_mapReAOA_Gupta2023JFM.png]]
+>At Re = 1000 3D instability starts at 13 degrees. Which calls into question the validity of period double 2D simulations in case of real flows.
+
+My thought experiment verbatim:
+>This is the thought exp: I take a 2D base flow and copy it along z-axis. Small numerical instabilities make it go unstable. I take the a line along the z axis and do FFT and record the time series of the amplitudes. The elementwise ratio in this time series is the floquet mutiplier at that wavelength.
+
+They classified the spanwise 3D instabilities following the lead of CHK Williamsons 3D cylinder instability works. See [[Williamson ARFM 1996 Cylinder Wake Vortex Dynamics ]]
+
+
