@@ -40,8 +40,13 @@ Williamson ordered these 3D instability modes of circular cylinders as mode A, B
 
 ![ModeAB](Figures/williamsonModeAB.png)
 >Fig Caption: Spanwise instabilities in flow past a cylinder. The airfoil 3D instabilities develops by mode C, as discussed by Gupta et al. Taken from *Williamson* 1996 Annu. Rev. Fluid. Mech. Vortex Dynamics in the Cylinder Wake 
-## 1.3 Unsteady Aerodynamics and Leading Edge Vortex Dynamics 
+## 1.3 Rapid Motions of Airfoil and Leading Edge Vortex Dynamics 
 
+
+### 1.4 Reduced-Order Modeling and Data-driven Techniques
+
+Reduced-order models, that can be used in real time to predict the aerodynamic response in real time is essential for active flow control. 
+Such models can be developed from either first prinicples or from empirical, data-driven apporaches. 
 
 
 
